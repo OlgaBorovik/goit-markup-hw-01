@@ -1,0 +1,7 @@
+.vscode
+.idea
+.Ds-Store
+node-modules
+.env
+build/
+*.psd
